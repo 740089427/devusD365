@@ -1,3 +1,3 @@
-这是一个基于 dynamics 365 OP 9.1 版本的公共插件
-基于HiddrenApi 的公共Action。
+﻿这是一个基于 dynamics 365 OP 9.1 版本的公共插件
+基于HiddrenApi 的公共Action。。
 目前存在一个缓存的问题。需要使用插件注册工具更新Dll 之后 开启一下Profile 才会使用最新代码，本质原因是里面使用了延迟加载本程序集的缓存。
