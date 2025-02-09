@@ -23,6 +23,7 @@ namespace devusD365
             //var response = (WhoAmIResponse)service.Execute(new WhoAmIRequest());
              return $"12345:{name}";
             //return response.UserId.ToString("N");
+
         }
     }
 
